@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Han Nguyen & I am a: 
 #### Finance Analyst & Data Science enthusiasm
-![Finance Analyst & Data Science enthusiasm](https://dochub.com/mlmitpython/ALzmZB7wM0ae0PNVX8J560/laptop-1209008-1280-jpg)
+![Finance Analyst & Data Science enthusiasm](https://cdn.pixabay.com/photo/2016/02/19/10/00/laptop-1209008_960_720.jpg)
 
 I'm Han from Germany, basically I have a Finance backround but got into Data Science and Machine Learning. I really enjoy programming with Python and building Algorithmic trading strategies, while also working a lot on AI in Finance.
 
