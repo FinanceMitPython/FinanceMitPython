@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Optimizing my code
 - 💬 Ask me about ... Finance, Machine Learning, AI
 - 📫 How to reach me: ... mlmitpython@gmail.com 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... Actually I studied International Finance but somehow got hooked on Data Science, Machine Learning and AI
 -->
