@@ -15,7 +15,7 @@ Skills: Python / R / VBA / WORDPRESS
 - ⚡ Fun fact: Actually I studied International Finance but somehow got hooked on Data Science, Machine Learning and AI  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FinanceMitPython)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCOQ1e7sZp0mTKrW6xCEP54g)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FinanceMitPython)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCOQ1e7sZp0mTKrW6xCEP54g)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FinanceMitPython)](https://github.com/anuraghazra/github-readme-stats)
 
