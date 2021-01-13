@@ -2,7 +2,7 @@
 #### Finance Analyst & Data Science enthusiasm
 ![Finance Analyst & Data Science enthusiasm](https://cdn.pixabay.com/photo/2016/02/19/10/00/laptop-1209008_960_720.jpg)
 
-I'm Han from Germany, basically I have a Finance backround but got into Data Science and Machine Learning. I really enjoy programming with Python and building Algorithmic trading strategies, while also working a lot on AI in Finance.
+I'm Han from Germany. Basically I have a Finance backround but got into Data Science and Machine Learning. I really enjoy programming with Python and building Algorithmic trading strategies, while also working a lot on AI in Finance.
 
 Skills: Python / R / VBA / WORDPRESS
 
@@ -12,7 +12,7 @@ Skills: Python / R / VBA / WORDPRESS
 - 🤔 I’m looking for help with Optimizing my code 
 - 💬 Ask me about Finance, Machine Learning, AI 
 - 📫 How to reach me: mlmitpython@gmail.com 
-- ⚡ Fun fact: Actually I studied International Finance but somehow got hooked on Data Science, Machine Learning and AI  
+- ⚡ Fun fact: I actually studied International Finance but somehow got hooked on Data Science, Machine Learning and AI  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FinanceMitPython)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCOQ1e7sZp0mTKrW6xCEP54g)  
