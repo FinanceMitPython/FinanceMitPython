@@ -12,7 +12,7 @@ Skills: Python / R / VBA / WORDPRESS
 - 🤔 I’m looking for help with Optimizing my code 
 - 💬 Ask me about Finance, Machine Learning, AI 
 - 📫 How to reach me: mlmitpython@gmail.com 
-- ⚡ Fun fact: I learned everythin about programming / Data Science / Machine Learning from Udemy courses which are really great for everyone  
+- ⚡ Fun fact: I learned everything about programming / Data Science / Machine Learning from Udemy courses which are really great for everyone  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FinanceMitPython)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCOQ1e7sZp0mTKrW6xCEP54g)  
